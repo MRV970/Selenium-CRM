@@ -1,0 +1,5 @@
+URL:https://demowebshop.tricentis.com/
+browser:chrome
+Email:xxx@test.com
+password:demowebshop
+timeout:15
